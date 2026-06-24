@@ -1,5 +1,5 @@
-# Data-Related-Jobs
-# 📊 Data Jobs Dashboard
+
+# 📊 Data Jobs Dashboard using Power bi 
 
 ## Project Overview
 This Power BI dashboard analyzes 479K+ data job postings to provide insights into job demand, salary trends, and top-paying roles in the data industry. It helps users understand career opportunities and salary expectations across different data-related job titles.
